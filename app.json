@@ -1,7 +1,7 @@
 {
   "id": "1adcf11c-4320-4534-b157-5d9ca8adb903",
-  "name": "ALProject1",
-  "publisher": "Default publisher",
+  "name": "Demo project",
+  "publisher": "Tonni Ryborg",
   "brief": "",
   "description": "",
   "version": "1.0.0.0",
@@ -17,7 +17,7 @@
   "platform": "11.0.0.0",
   "application": "11.0.0.0",
   "idRange": {
-    "from": 50100,
-    "to": 50149
+    "from": 123456700,
+    "to": 123456799
   }
 }
